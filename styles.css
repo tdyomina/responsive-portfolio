@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);;
+  background: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
 }
 
 h1 {
@@ -19,11 +19,11 @@ p {
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
 footer {
-    margin: 50px 0px;
+  margin: 50px 0px;
 }
 
 @media (max-width: 900px) {
